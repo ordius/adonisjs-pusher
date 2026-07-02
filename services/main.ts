@@ -1,5 +1,5 @@
 /*
- * @mixxtor/adonisjs-pusher
+ * @ordius/adonisjs-pusher
  *
  * (c) Mixxtor
  *
@@ -15,7 +15,7 @@ import type Pusher from 'pusher'
  *
  * Usage:
  * ```ts
- * import pusher from '@mixxtor/adonisjs-pusher/services/main'
+ * import pusher from '@ordius/adonisjs-pusher/services/main'
  *
  * // Trigger an event
  * await pusher.trigger('my-channel', 'my-event', { message: 'hello' })

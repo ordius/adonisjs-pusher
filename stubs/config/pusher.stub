@@ -2,7 +2,7 @@
   exports({ to: app.configPath('pusher.ts') })
 }}}
 import env from '#start/env'
-import { defineConfig } from '@mixxtor/adonisjs-pusher'
+import { defineConfig } from '@ordius/adonisjs-pusher'
 
 export default defineConfig({
   host: env.get('PUSHER_HOST'),

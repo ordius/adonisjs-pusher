@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 
 
+## [2.0.1](https://github.com/mixxtor/adonisjs-pusher/compare/v2.0.0...v2.0.1) (2026-07-02)
+
+### ⚠ BREAKING CHANGES
+
+* update package name from @mixxtor to @ordius
+
+### break
+
+* update package name from [@mixxtor](https://github.com/mixxtor) to [@ordius](https://github.com/ordius) ([412fb71](https://github.com/mixxtor/adonisjs-pusher/commit/412fb7108be173b7f1986a7b3f705bf05dc51f0e))
+
 ## [2.0.0](https://github.com/mixxtor/adonisjs-pusher/compare/v2.0.0-next.1...v2.0.0) (2026-07-02)
 
 ### ♻️ Code Refactoring

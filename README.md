@@ -1,11 +1,11 @@
-# @mixxtor/adonisjs-pusher
+# @ordius/adonisjs-pusher
 
 An AdonisJS provider for Pusher real-time messaging service.
 
 ## Installation
 
 ```bash
-npm install @mixxtor/adonisjs-pusher
+npm install @ordius/adonisjs-pusher
 ```
 
 ## Configuration
@@ -13,7 +13,7 @@ npm install @mixxtor/adonisjs-pusher
 After installation, run the configure script:
 
 ```bash
-node ace configure @mixxtor/adonisjs-pusher
+node ace configure @ordius/adonisjs-pusher
 ```
 
 This will:
